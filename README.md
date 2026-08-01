@@ -48,13 +48,8 @@ Transport-System/
 └── README.md
 ```
 
-## Future Improvements
 
-- Graphical User Interface (GUI)
-- Database integration (MySQL/SQLite)
-- Online booking system
-- Real-time vehicle tracking
-- Admin dashboard
+
 
 ## Author
 
